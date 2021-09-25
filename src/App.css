@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(0, 0, 0, 0.897);
+}
+nav a.nav-link {
+  font-size: 1.2rem;
+}
+.navbar {
+  background-color: rgb(0, 0, 0) !important;
+  opacity: 0.9;
+}
+
+.navbar-nav > li > a {
+  color: white !important;
+  
+}

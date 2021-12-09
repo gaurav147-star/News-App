@@ -1,6 +1,6 @@
 <h1 align="center"> News-App </h1>
 
-News-App is made using ReactJs and also using newsapi.This App provides the latest news for distinct field.
+News-App is made using ReactJs and also using newsapi. This App provides the latest news for distinct field.
 
 
 ## Required Environment Variables
